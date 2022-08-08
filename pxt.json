@@ -1,5 +1,6 @@
 {
     "name": "extended version f song",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
